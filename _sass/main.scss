@@ -228,3 +228,19 @@ html {
         -webkit-transform: rotate(45deg);
     }
 }
+button#ot-sdk-btn {
+    
+    color: #fff;
+    text-align: right;
+    border: 0;
+    outline: 9;
+    background: 0;
+    display: block;
+    font-size: 16px;
+    padding-left: 0px;
+    text-decoration: underline;
+
+}
+button#ot-sdk-btn:focus {
+    outline: 0px;
+}
